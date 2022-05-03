@@ -1,2 +1,3 @@
-I am Akshat Sachdeva and I am B-Tech(IT) student 
-I am from India and currently pursuing UG and passionate about coding and making user friendly apps
+I am Akshat Sachdeva 
+currently pursuing my UG degree and I am so much passionate about coding and making user friendly apps
+I am from The India
