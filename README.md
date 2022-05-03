@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @Akshatsachdev
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python,C++ and Java
-- 📫 How to reach me 
-
-<!---
-Akshatsachdev/Akshatsachdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Akshat Sachdeva and I am B-Tech(IT) student 
+I am from India and currently pursuing UG and passionate about coding and making user friendly apps
