@@ -5,7 +5,7 @@
 
 **I'm Akshat Sachdeva — Welcome to my GitHub!**
 
-### 🔍 About Me
+ 🔍 About Me
 
 * 🧠 Full-Stack Developer blending **AI + Web** to solve real-world healthcare problems.
 * 🛠️ Creator of **MediSuggest** – AI-powered medical term suggestion engine using ScispaCy, Wikipedia APIs & a custom Python SDK.
