@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/877dadf2-4c17-4cdc-bff8-b4af79a560b5)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/877dadf2-4c17-4cdc-bff8-b4af79a560b5" width="80%" alt="Header Banner">
+</p>
 ### Hey there 👋
 
 **I'm Akshat Sachdeva — Welcome to my GitHub!**
