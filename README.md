@@ -66,21 +66,24 @@
 
 ---
 
-### 🤖 AI / ML / LLM Interests
-
+🤖 AI / ML / LLM Interests
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23007ACC?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-%2300BFFF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%23666CD9?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-%234A90E2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AIML-%234CBB17?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Search-%2300ADB5?style=for-the-badge&logo=weaviate&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-%2300A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-%23FF6F61?style=for-the-badge&logo=huggingface&logoColor=black" />
- <img src="https://img.shields.io/badge/Ollama-%23000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-%23007ACC?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Engineering-%2300BFFF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-%23666CD9?style=for-the-badge&logo=spacy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/RAG%20Systems-%234A90E2?style=for-the-badge&logo=openai&logoColor=white" /> 
+<img src="https://img.shields.io/badge/AIML-%234CBB17?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vector%20Search-%2300ADB5?style=for-the-badge&logo=weaviate&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge&logo=langchain&logoColor=white" /> 
+<img src="https://img.shields.io/badge/OpenAI%20APIs-%2300A67E?style=for-the-badge&logo=openai&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Hugging%20Face-%23FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Transformers-%23FF6F61?style=for-the-badge&logo=huggingface&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Ollama-%23000000?style=for-the-badge&logo=ollama&logoColor=white" /> <br /> 
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-%230078D4?style=for-the-badge&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vertex%20AI-%230076D6?style=for-the-badge&logo=googlecloud&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Google%20Cloud%20AI-%23EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Google%20Developer-%23000000?style=for-the-badge&logo=google&logoColor=white" />
 
 </p>
