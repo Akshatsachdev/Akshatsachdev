@@ -87,3 +87,15 @@
 <img src="https://img.shields.io/badge/Google%20Developer-%23000000?style=for-the-badge&logo=google&logoColor=white" />
 
 </p>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PitchBook-00457C?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20News-34A853?style=for-the-badge&logo=google-news&logoColor=white" />
+<img src="https://img.shields.io/badge/Reuters-FF6F00?style=for-the-badge&logo=reuters&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter%20API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
