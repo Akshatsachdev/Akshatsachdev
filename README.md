@@ -1,3 +1,13 @@
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/167743fb-8957-4cc8-aa6a-c9018c321c3e" 
+    alt="Logo" 
+    width="600"
+  />
+</p>
+
+
+
 Hey there 👋
 
 **I'm Akshat Sachdeva — Welcome to my GitHub!**
