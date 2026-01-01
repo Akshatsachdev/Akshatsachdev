@@ -95,9 +95,10 @@ Hey there 👋
 
 </p>
 
+<!--
 ---
 
-<!--
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Akshatsachdev&theme=radical&no-frame=true&row=1&column=5)
