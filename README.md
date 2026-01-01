@@ -10,26 +10,26 @@ Hey there 👋
 * 💡 Passionate about **clean architecture**, scalable APIs, and making complex systems intuitive.
 * ⚡ Fun fact: I love turning unstructured chaos into structured brilliance.
 
----
-
-## 📊 GitHub Activity Tracker (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Akshatsachdev&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Akshatsachdev?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&streak=1&streak.duration=full-year&config.timezone=Asia/Kolkata" />
-</p>
-
----
-
 ### Let's Build Something Awesome 🚀
 
 * 🧬 NLP meets UX: Real-time medical suggestion interfaces
 * 📦 Reusable AI SDKs for devs
 * 💬 Open to collabs on AI-powered tools, search systems, or anything mind-bending!
+
+---
+
+## 📊 GitHub Activity Tracker (Live)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Akshatsachdev&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
 
 ---
 
