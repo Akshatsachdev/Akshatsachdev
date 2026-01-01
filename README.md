@@ -20,9 +20,9 @@ Hey there 👋
 
 ## 📊 GitHub Activity Tracker (Live)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshatsachdev&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshatsachdev&theme=radical&hide_border=true)
 
 
 ---
