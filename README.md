@@ -33,6 +33,11 @@ Hey there 👋
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshatsachdev&theme=dark&hide_border=true&border_radius=10" />
+</p>
+
+
 ### 🚀 My Tech Identity
 
 <p align="center">
