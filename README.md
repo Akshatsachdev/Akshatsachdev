@@ -20,23 +20,11 @@ Hey there 👋
 
 ## 📊 GitHub Activity Tracker (Live)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    height="170"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Akshatsachdev&theme=radical&hide_border=true"
-    height="170"
-  />
-</p>
+| Stats | Streak |
+|------|--------|
+| ![](https://github-readme-stats.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true) | ![](https://streak-stats.demolab.com?user=Akshatsachdev&theme=radical&hide_border=true) |
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshatsachdev&theme=dark&hide_border=true&border_radius=10" />
-</p>
-
 
 ### 🚀 My Tech Identity
 
