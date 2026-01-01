@@ -2,19 +2,13 @@ Hey there 👋
 
 **I'm Akshat Sachdeva — Welcome to my GitHub!**
 
- 🔍 About Me
+🔍 About Me
 
 * 🧠 Full-Stack Developer blending **AI + Web** to solve real-world problems.
 * 🛠️ Creator of **MediSuggest** – AI-powered medical term suggestion engine using ScispaCy, Wikipedia APIs & a custom Python SDK.
 * 🌐 Tech explorer diving into **LLMs**, **modular Angular**, **FastAPI**, and smart data systems.
 * 💡 Passionate about **clean architecture**, scalable APIs, and making complex systems intuitive.
 * ⚡ Fun fact: I love turning unstructured chaos into structured brilliance.
-
-### Let's Build Something Awesome 🚀
-
-* 🧬 NLP meets UX: Real-time medical suggestion interfaces
-* 📦 Reusable AI SDKs for devs
-* 💬 Open to collabs on AI-powered tools, search systems, or anything mind-bending!
 
 ---
 
@@ -28,6 +22,14 @@ Hey there 👋
 <p align="center">
   <img src="https://metrics.lecoq.io/Akshatsachdev?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&streak=1&streak.duration=full-year&config.timezone=Asia/Kolkata" />
 </p>
+
+---
+
+### Let's Build Something Awesome 🚀
+
+* 🧬 NLP meets UX: Real-time medical suggestion interfaces
+* 📦 Reusable AI SDKs for devs
+* 💬 Open to collabs on AI-powered tools, search systems, or anything mind-bending!
 
 ---
 
