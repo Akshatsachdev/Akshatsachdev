@@ -18,12 +18,10 @@ Hey there 👋
 
 ---
 
-## 📊 GitHub Activity Tracker (Live)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshatsachdev&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshatsachdev&theme=radical&hide_border=true)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshatsachdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akshatsachdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsachdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -94,3 +92,20 @@ Hey there 👋
 <img src="https://img.shields.io/badge/Google%20Developer-%23000000?style=for-the-badge&logo=google&logoColor=white" />
 
 </p>
+
+
+
+
+
+
+
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akshatsachdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
