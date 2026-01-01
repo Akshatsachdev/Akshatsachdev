@@ -97,7 +97,11 @@ Hey there 👋
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshatsachdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Akshatsachdev&theme=radical&no-frame=true&row=1&column=5)
+-->
+
 
 ---
