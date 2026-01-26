@@ -3,25 +3,35 @@
     src="https://github.com/user-attachments/assets/757509c5-8d76-472f-86e4-fa98930403b3" />
 </p>
 
+---
 
+### 👋 Hey there, 
 
-Hey there 👋
+I’m **Akshat Sachdeva**
 
-**I'm Akshat Sachdeva — Welcome to my GitHub!**
+Welcome to my GitHub — where **AI, systems thinking, and clean engineering** come together.
 
-🔍 About Me
+---
 
-* 🧠 Full-Stack Developer blending **AI + Web** to solve real-world problems.
-* 🛠️ Creator of **MediSuggest** – AI-powered medical term suggestion engine using ScispaCy, Wikipedia APIs & a custom Python SDK.
-* 🌐 Tech explorer diving into **LLMs**, **modular Angular**, **FastAPI**, and smart data systems.
-* 💡 Passionate about **clean architecture**, scalable APIs, and making complex systems intuitive.
-* ⚡ Fun fact: I love turning unstructured chaos into structured brilliance.
+### 🔍 About Me
 
-### Let's Build Something Awesome 🚀
+* 🧠 **AI & Full-Stack Engineer** focused on building end-to-end, production-ready systems
+* 🤖 Hands-on with **LLMs**, retrieval-based systems, agent-style workflows, and intelligent automation
+* 🌐 Strong experience across **backend-heavy architectures**, scalable APIs, and modern web stacks
+* 🧬 Deep interest in **NLP**, semantic search, and turning unstructured data into usable intelligence
+* 🛠️ Comfortable working across **ASP.NET Core, FastAPI, Angular, React, PostgreSQL**, and cloud-native setups
+* 💡 Driven by **clean architecture**, system design, and long-term maintainability
+* ⚡ Fun fact: I enjoy simplifying complex systems until they feel obvious
 
-* 🧬 NLP meets UX: Real-time medical suggestion interfaces
-* 📦 Reusable AI SDKs for devs
-* 💬 Open to collabs on AI-powered tools, search systems, or anything mind-bending!
+---
+
+### 🤝 Let’s Build Something Meaningful
+
+* 🤖 Real-world AI systems 
+* 🔍 Search, RAG, and decision-support platforms
+* 📦 Developer-first tooling & scalable backend infrastructure
+* 💬 Always open to thoughtful collaborations and ambitious ideas
+
 
 ---
 
