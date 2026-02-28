@@ -9,22 +9,17 @@
 
 I’m **Akshat Sachdeva**
 
-Welcome to my GitHub — where **AI engineering, agentic systems, and production-grade architecture** come together.
-
+Welcome to my GitHub — this is where I build, experiment, and ship intelligent systems.
 ---
 
 ### 🔍 About Me
 
-* 🧠 **AI Engineer & Systems Architect** building real-world, deployable AI products  
-* 🤖 Specialized in **LLM Engineering, RAG pipelines, and Agentic AI execution systems**  
-* 🏗️ Architecting **secure, scalable backend infrastructures** with modular & clean design principles  
+* 🚀 Founder mindset. I build with long-term vision and clean architecture.
+* 🧠 AI Engineer building production-grade LLM, RAG & agentic systems  
+* 🏗️ Backend Architect designing secure, scalable infrastructures  
 * 🔎 Designing **retrieval, semantic search, and vector-based intelligence systems**  
-* ⚙️ Experienced in building **end-to-end AI applications** — from model integration to production deployment  
-* 🛡️ Strong focus on **security layers, execution control, and system isolation** in AI environments  
-* 🌐 Tech stack includes **ASP.NET Core, FastAPI, Node.js, Angular, React, PostgreSQL, Docker & Cloud platforms**  
-* 🚀 Founder mindset — building AI products under a long-term vision of scalable innovation  
-* ⚡ I simplify complex systems until they become structured, predictable, and powerful
-
+* ⚙️ End-to-end AI development — from model integration to deployment    
+* 🌐 Designing API-first architectures and MCP-enabled intelligent systems
 ---
 
 ### 🤝 Let’s Build Something Meaningful
