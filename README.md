@@ -5,32 +5,37 @@
 
 ---
 
-### 👋 Hey there, 
+### 👋 Hey there,
 
 I’m **Akshat Sachdeva**
 
-Welcome to my GitHub — where **AI, systems thinking, and clean engineering** come together.
+Welcome to my GitHub — where **AI engineering, agentic systems, and production-grade architecture** come together.
 
 ---
 
 ### 🔍 About Me
 
-* 🧠 **AI & Full-Stack Engineer** focused on building end-to-end, production-ready systems
-* 🤖 Hands-on with **LLMs**, retrieval-based systems, agent-style workflows, and intelligent automation
-* 🌐 Strong experience across **backend-heavy architectures**, scalable APIs, and modern web stacks
-* 🧬 Deep interest in **NLP**, semantic search, and turning unstructured data into usable intelligence
-* 🛠️ Comfortable working across **ASP.NET Core, FastAPI, Angular, React, PostgreSQL**, and cloud-native setups
-* 💡 Driven by **clean architecture**, system design, and long-term maintainability
-* ⚡ Fun fact: I enjoy simplifying complex systems until they feel obvious
+* 🧠 **AI Engineer & Systems Architect** building real-world, deployable AI products  
+* 🤖 Specialized in **LLM Engineering, RAG pipelines, and Agentic AI execution systems**  
+* 🏗️ Architecting **secure, scalable backend infrastructures** with modular & clean design principles  
+* 🔎 Designing **retrieval, semantic search, and vector-based intelligence systems**  
+* ⚙️ Experienced in building **end-to-end AI applications** — from model integration to production deployment  
+* 🛡️ Strong focus on **security layers, execution control, and system isolation** in AI environments  
+* 🌐 Tech stack includes **ASP.NET Core, FastAPI, Node.js, Angular, React, PostgreSQL, Docker & Cloud platforms**  
+* 🚀 Founder mindset — building AI products under a long-term vision of scalable innovation  
+* ⚡ I simplify complex systems until they become structured, predictable, and powerful
 
 ---
 
 ### 🤝 Let’s Build Something Meaningful
 
-* 🤖 Real-world AI systems 
-* 🔍 Search, RAG, and decision-support platforms
-* 📦 Developer-first tooling & scalable backend infrastructure
-* 💬 Always open to thoughtful collaborations and ambitious ideas
+* 🧠 Production-ready AI systems  
+* 🔍 Advanced RAG & knowledge-based platforms  
+* 🤖 Agentic AI engines & execution frameworks  
+* 📦 Developer-first SDKs & secure backend infrastructures  
+* 🚀 AI products that move from prototype → deployment → scale  
+
+I’m always open to ambitious collaborations and bold ideas.
 
 
 ---
