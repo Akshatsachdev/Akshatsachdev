@@ -105,15 +105,6 @@ I’m always open to ambitious collaborations and bold ideas.
 
 ---
 
-## 📊 GitHub Stats
-
-| Stats | Activity Graph |
-|------|----------------|
-| ![](https://github-readme-stats.vercel.app/api?username=Akshatsachdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=Akshatsachdev&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsachdev&theme=dark&hide_border=false&layout=compact) | ![](https://github-readme-activity-graph.vercel.app/graph?username=Akshatsachdev&theme=react-dark&height=250&max_width=650) |
-
-
----
-
 <!--
 ---
 
